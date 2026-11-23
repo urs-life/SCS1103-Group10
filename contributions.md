@@ -16,7 +16,7 @@
 | Tawanda M Chidembo| N02654074M | chtawanda | Research|
 | Daniel A Nyamusoro| N02641231X | Anoe-thaDev | Designer |
 | Manduna N Loreen | N02643308W | neuralink00 | Testing|
-| Assam Hassan| N02655071E | Hassan-Assam | Testing |
+| Assam Hassan| N02655071E | Hassan-Assam | Presenter|
 | Member 14| To be filled | To be filled | To be filled |
 | Member 15| To be filled | To be filled | To be filled |
 
