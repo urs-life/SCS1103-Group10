@@ -1,0 +1,61 @@
+iteration,file,method,cut_percent,final_state,verified,incomplete,info_accurate,recovery_writes,journal_writes
+1,1,no-journaling,17,OLD (intact),True,False,True,0,0
+1,1,journaling,22,OLD (intact),True,False,True,0,5
+2,2,no-journaling,67,INCOMPLETE (mixed blocks),False,True,False,0,0
+2,2,journaling,56,NEW (complete),True,False,True,6,6
+3,3,no-journaling,67,INCOMPLETE (mixed blocks),False,True,False,0,0
+3,3,journaling,56,NEW (complete),True,False,True,6,6
+4,4,no-journaling,100,INCONSISTENT (file info wrong),False,False,False,0,0
+4,4,journaling,89,NEW (complete),True,False,True,6,6
+5,5,no-journaling,17,OLD (intact),True,False,True,0,0
+5,5,journaling,11,OLD (intact),True,False,True,0,0
+6,6,no-journaling,33,INCOMPLETE (mixed blocks),False,True,False,0,0
+6,6,journaling,33,NEW (complete),True,False,True,6,6
+7,7,no-journaling,67,INCOMPLETE (mixed blocks),False,True,False,0,0
+7,7,journaling,67,NEW (complete),True,False,True,6,6
+8,8,no-journaling,67,INCOMPLETE (mixed blocks),False,True,False,0,0
+8,8,journaling,67,NEW (complete),True,False,True,6,6
+9,9,no-journaling,83,INCOMPLETE (mixed blocks),False,True,False,0,0
+9,9,journaling,89,NEW (complete),True,False,True,6,6
+10,10,no-journaling,67,INCOMPLETE (mixed blocks),False,True,False,0,0
+10,10,journaling,56,NEW (complete),True,False,True,6,6
+11,11,no-journaling,83,INCOMPLETE (mixed blocks),False,True,False,0,0
+11,11,journaling,78,NEW (complete),True,False,True,6,6
+12,12,no-journaling,83,INCOMPLETE (mixed blocks),False,True,False,0,0
+12,12,journaling,78,NEW (complete),True,False,True,6,6
+13,13,no-journaling,83,INCOMPLETE (mixed blocks),False,True,False,0,0
+13,13,journaling,78,NEW (complete),True,False,True,6,6
+14,14,no-journaling,67,INCOMPLETE (mixed blocks),False,True,False,0,0
+14,14,journaling,67,NEW (complete),True,False,True,6,6
+15,15,no-journaling,33,INCOMPLETE (mixed blocks),False,True,False,0,0
+15,15,journaling,33,NEW (complete),True,False,True,6,6
+16,16,no-journaling,67,INCOMPLETE (mixed blocks),False,True,False,0,0
+16,16,journaling,67,NEW (complete),True,False,True,6,6
+17,17,no-journaling,17,OLD (intact),True,False,True,0,0
+17,17,journaling,11,OLD (intact),True,False,True,0,0
+18,18,no-journaling,83,INCOMPLETE (mixed blocks),False,True,False,0,0
+18,18,journaling,89,NEW (complete),True,False,True,6,6
+19,19,no-journaling,50,INCOMPLETE (mixed blocks),False,True,False,0,0
+19,19,journaling,56,NEW (complete),True,False,True,6,6
+20,20,no-journaling,83,INCOMPLETE (mixed blocks),False,True,False,0,0
+20,20,journaling,89,NEW (complete),True,False,True,6,6
+21,21,no-journaling,83,INCOMPLETE (mixed blocks),False,True,False,0,0
+21,21,journaling,78,NEW (complete),True,False,True,6,6
+22,22,no-journaling,83,INCOMPLETE (mixed blocks),False,True,False,0,0
+22,22,journaling,78,NEW (complete),True,False,True,6,6
+23,23,no-journaling,33,INCOMPLETE (mixed blocks),False,True,False,0,0
+23,23,journaling,22,OLD (intact),True,False,True,0,5
+24,24,no-journaling,33,INCOMPLETE (mixed blocks),False,True,False,0,0
+24,24,journaling,33,NEW (complete),True,False,True,6,6
+25,25,no-journaling,100,INCONSISTENT (file info wrong),False,False,False,0,0
+25,25,journaling,100,NEW (complete),True,False,True,6,6
+26,26,no-journaling,100,INCONSISTENT (file info wrong),False,False,False,0,0
+26,26,journaling,100,NEW (complete),True,False,True,6,6
+27,1,no-journaling,83,INCOMPLETE (mixed blocks),False,True,False,0,0
+27,1,journaling,89,NEW (complete),True,False,True,6,6
+28,2,no-journaling,100,INCONSISTENT (file info wrong),False,False,False,0,0
+28,2,journaling,100,NEW (complete),True,False,True,6,6
+29,3,no-journaling,67,INCOMPLETE (mixed blocks),False,True,False,0,0
+29,3,journaling,56,NEW (complete),True,False,True,6,6
+30,4,no-journaling,17,OLD (intact),True,False,True,0,0
+30,4,journaling,11,OLD (intact),True,False,True,0,0
